@@ -1,5 +1,5 @@
 ## Hi there HamiyaYui👋
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yunyiawa&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=yunyiawa&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HamiyaYui&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=HamiyaYui&show_icons=true&include_all_commits=true&theme=dark_github)
 <!--
 **yunyiawa/yunyiawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
